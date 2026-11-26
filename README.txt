@@ -1,10 +1,9 @@
 NORMAL DAY AS A DATA ANALYST — EXPANDED STORY GAME
 
 HOW TO PLAY
-1. Extract the ZIP file.
-2. Keep index.html and the game-scenes folder together.
-3. Open index.html in a modern browser.
-4. Click GET UP, CJ, then choose an action at each scene.
+1. Keep index.html and the game-scenes folder together.
+2. Open index.html in a modern browser.
+3. Click GET UP, CJ, then choose an action at each scene.
 
 STORY
 Wake up -> crowded commute -> dashboard crisis -> pantry coffee -> online meeting -> phone-scroll toilet break -> lunch at desk -> another data crisis -> snack break -> fix the numbers -> face-to-face boss meeting to plan sprint priorities -> last-minute manager task -> overtime -> fall asleep on the metro -> shower -> dinner and TV -> sleep -> choose whether to call in sick for a self-made GTA day.
